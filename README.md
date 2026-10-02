@@ -2,6 +2,10 @@
 
 Fabrication resources for ionic conductivity cells, covering both manual (by-hand) construction and PCB-based fabrication.
 
+| In-plane cell (hand) | In-plane cell (PCB) | Through-plane cell (PCB) |
+|---|---|---|
+| ![In-plane cell, hand-fabricated](images/ip_hand.jpg) | ![In-plane cell, PCB](images/ip_pcb.jpg) | ![Through-plane cell, PCB](images/tp_pcb.jpg) |
+
 ## Contents
 
 - `manuals/Fabrication_Manual_for_In_Plane_Ionic_Conductivity_Cell.pdf` — step-by-step manual for fabricating in-plane ionic conductivity cells by hand.
